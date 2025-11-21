@@ -100,7 +100,7 @@ Connect pain points, statements, methods, and personas to guide UX decisions.
 ## Output:
 ### Scenario 1: Emotional Well-Being Support Application
 
-<img width="992" height="1056" alt="balaji" src="https://github.com/user-attachments/assets/a65750cf-b86a-4b29-98cc-3cba794a7e11" />
+<img width="1024" height="1024" alt="yash (2)" src="https://github.com/user-attachments/assets/ff69806f-bd7f-46cc-a3d6-db8ada193e83" />
 
 ### Scenario 2: Smart City Garbage Monitoring App
 
