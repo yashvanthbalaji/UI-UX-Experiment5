@@ -61,6 +61,7 @@ Connect pain points, statements, methods, and personas to guide UX decisions.
 ### Personas
 
 **Aanya (21, Student, Chennai)** — wants anxiety control, uses mood trackers, feels judged, needs a safe space.
+
 **Rohan (34, Marketing Executive, Mumbai)** — stressed from long hours, lacks time for therapy, wants balance and focus.
 
 ---
@@ -93,16 +94,17 @@ Connect pain points, statements, methods, and personas to guide UX decisions.
 ### Personas
 
 **Kavya (29, IT Professional, Bangalore)** — tech-savvy, wants clean surroundings, struggles with irregular pickups.
+
 **Vijay (46, Sanitation Worker, Hyderabad)** — uses basic phone, needs clear routes and quick updates.
 
 ## Output:
 ### Scenario 1: Emotional Well-Being Support Application
 
-<img width="1857" height="868" alt="Screenshot 2025-11-17 084351" src="https://github.com/user-attachments/assets/2a167f66-a167-4b80-95b6-3916a6a05a00" />
+<img width="992" height="1056" alt="balaji" src="https://github.com/user-attachments/assets/a65750cf-b86a-4b29-98cc-3cba794a7e11" />
 
 ### Scenario 2: Smart City Garbage Monitoring App
 
-<img width="1686" height="880" alt="image" src="https://github.com/user-attachments/assets/7051bfae-6ee7-4493-b7ed-1e71811b547c" />
+<img width="962" height="907" alt="image" src="https://github.com/user-attachments/assets/ea7b74af-34d2-4207-a8ec-a926f8527e5b" />
 
 ## Result:
 
