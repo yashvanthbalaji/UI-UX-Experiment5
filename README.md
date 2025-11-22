@@ -7,7 +7,7 @@
 
 To understand how to identify UX problems, choose suitable research methods, and create user personas for two scenarios: a Mental Wellness Companion App and a Smart Waste Management App.
 
-## ALGORITHM (Short Version)
+## ALGORITHM 
 
 **Step 1: Understand the Scenario**
 Study both app scenarios and identify target users, goals, and UX improvement needs.
